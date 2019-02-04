@@ -24,8 +24,8 @@ We use [GitHub](https://github.com)
 ## Authors
 
 * Manuel Monforte  [@manumonforte](https://github.com/manumonforte)
+* Eduardo Martínez [edwardmartins](https://github.com/edwardmartins)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
