@@ -24,7 +24,7 @@ We use [GitHub](https://github.com)
 ## Authors
 
 * Manuel Monforte  [@manumonforte](https://github.com/manumonforte)
-* Eduardo Martínez [edwardmartins](https://github.com/edwardmartins)
+* Eduardo Martínez [@edwardmartins](https://github.com/edwardmartins)
 
 ## License
 
