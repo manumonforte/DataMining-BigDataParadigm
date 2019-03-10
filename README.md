@@ -11,7 +11,7 @@ The documentation has been written in spanish because of a language constraint i
 
 ## Language
 
-* Ruby
+* R
 
 ## Contributing
 
