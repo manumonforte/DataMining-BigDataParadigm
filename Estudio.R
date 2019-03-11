@@ -69,8 +69,18 @@ rainfall <- data.table::rbindlist(list(rainfall_2001,rainfall_2002,rainfall_2003
 
 datasetRainfall <- as.data.frame(rainfall);
 
+#Liberamos memoria de los datos 
+rm(list=ls(pat="20"))
+rm(data)
+
 #Colocamos nombre a la segunda colomna para quitar el acento
 names(datasetRainfall)[2]<-"l/m2"
 ##observamos que todos los datos se han unido, aplicando head y tail al dataset para ver cuando empiezan y acaban fechas
 head(datasetRainfall)
 tail(datasetRainfall)
+
+#Limpieza de datos datasetMadrid
+#1) Calculamos el porcenje de NA para descartar aquellas columnas cuyo porcentage sea muy alto
+naPerColumn <- colSums(is.na(datasetMadrid))
+percentageNA <- naPerColumn/nrow(datasetMadrid) *100
+barplot(percentageNA)
