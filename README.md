@@ -31,4 +31,5 @@ We use [GitHub](https://github.com)
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ### Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manumonforte/DataMining-BigDataParadigm/blob/master/Estudio.ipynb/master)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manumonforte/DataMining-BigDataParadigm/master?filepath=Estudio.ipynb)
