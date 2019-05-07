@@ -32,4 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manumonforte/DataMining-BigDataParadigm/master?filepath=Estudio.ipynb)
+[![Binder](https://hub.mybinder.org/user/manumonforte-da-bigdataparadigm-z4yae54i/notebooks/Estudio.ipynb)
