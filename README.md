@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manumonforte/DataMining-BigDataParadigm/master?filepath=Estudio.ipynb)
 
 ### nbviewer
-https://nbviewer.jupyter.org/gist/manumonforte/02a394dfeb925a18f51aa610ef5ea676
+https://nbviewer.jupyter.org/github/manumonforte/DataMining-BigDataParadigm/blob/master/Estudio.ipynb
