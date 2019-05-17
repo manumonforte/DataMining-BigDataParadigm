@@ -5,10 +5,6 @@
 Data mining & Big Data paradigm is a repository which contains exercises for the subject Data mining and Big Data paradigm of Software Engineer Bachelor's Degree at Universidad Complutense Madrid.
 The documentation has been written in spanish because of a language constraint in the assignment for the subject as some classes at the code.
 
-### Prerequisites
-
--
-
 ## Language
 
 * R
